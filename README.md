@@ -1,4 +1,4 @@
-# Sigmoid-1Attempt-Task
+# Sigmoid-Attempt1-Task
 A small research on a dataset from kaggle and attempting to create a model to predict prices.
 kaggle dataset link: https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
@@ -7,13 +7,13 @@ kaggle dataset link: https://www.kaggle.com/datasets/harishkumardatalab/housing-
 1. Clone the repository
 
 ```bash
-git clone https://github.com/CalinCezar/Sigmoid-1Attempt-Task
+git clone https://github.com/CalinCezar/Sigmoid-Attempt1-Task
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd Sigmoid-1Attempt-Task
+cd Sigmoid-Attempt1-Task
 ```
 
 3. Create a virtual environemnt
